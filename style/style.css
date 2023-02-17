@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+nav ul li a{
+    --bs-dropdown-link-hover-bg: var(--bs-dark);
+}
+.form-control:focus {
+        border-color: #a73b28;
+        box-shadow: 0 0 0 0.2rem rgba(253, 0, 0, 0.418);
+    } 
