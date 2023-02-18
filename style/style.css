@@ -15,3 +15,28 @@ nav ul li a{
         border-color: #a73b28;
         box-shadow: 0 0 0 0.2rem rgba(253, 0, 0, 0.418);
     } 
+
+.color-agua {
+    background-color: #30A7D7;
+}
+
+.btn-color-agua {
+    background-color: #30A7D7;
+}
+.btn-color-agua:hover {
+    background-color: #278bb3;
+}
+
+.btn-color-planta {
+    background-color: #9BCC50;
+}
+.btn-color-planta:hover {
+    background-color: #80aa41;
+}
+
+.btn-color-electrico {
+    background-color: #EED535;
+}
+.btn-color-electrico:hover {
+    background-color: #c2ae2c;
+}
