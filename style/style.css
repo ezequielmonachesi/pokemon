@@ -48,7 +48,8 @@ carousel-control-prev,
   color: white;
   filter:invert(100) drop-shadow(-1px 4px 5px rgb(3, 3, 3));   
   border-radius: 50%;
-  padding: 20px;  
+  padding: 20px;
+  
 }
 
 .carousel{
@@ -60,7 +61,10 @@ carousel-control-prev,
     min-height:30vh;    
     object-fit: cover;    
 }
-.seccionDos{
+main{
     flex-grow: 1;
-    background: #424242 url(https://assets.pokemon.com/static2/_ui/img/chrome/body_bg.png); 
+    background: #424242 url(https://assets.pokemon.com/static2/_ui/img/chrome/body_bg.png);          
+}
+.seccionDos{
+    background: #424242 url(https://assets.pokemon.com/static2/_ui/img/chrome/body_bg.png);
 }
