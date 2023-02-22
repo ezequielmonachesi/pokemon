@@ -37,6 +37,13 @@ nav ul li a{
     background-color: #c2ae2c;
 }
 
+.btn-color-veneno {
+    background-color: #8c00ff;
+}
+.btn-color-veneno:hover {
+    background-color: #6c00ff;
+}
+
 carousel-control-prev,
 .carousel-control-next {
   background-image: #000000;
