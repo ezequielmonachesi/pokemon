@@ -44,11 +44,6 @@ nav ul li a{
     background-color: #6c00ff;
 }
 
-carousel-control-prev,
-.carousel-control-next {
-  background-image: #000000;
-  padding: 0;
-}
 
 .carousel .carousel-control-next-icon, .carousel .carousel-control-prev-icon {
   background-color: rgb(0, 0, 0);
@@ -72,6 +67,3 @@ main{
     flex-grow: 1;
     background: #424242 url(https://assets.pokemon.com/static2/_ui/img/chrome/body_bg.png);          
 }
-/* .seccionDos{
-    background: #424242 url(https://assets.pokemon.com/static2/_ui/img/chrome/body_bg.png);
-} */
